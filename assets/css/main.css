@@ -37,6 +37,10 @@ ol, ul {
 	list-style: none;
 }
 
+h2 {
+	font-size: 0.875em; /* 30px/16=1.875em */
+   }
+
 blockquote, q {
 	quotes: none;
 }
