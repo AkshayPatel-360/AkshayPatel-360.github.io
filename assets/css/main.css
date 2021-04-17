@@ -37,9 +37,17 @@ ol, ul {
 	list-style: none;
 }
 
-h2 {
-	font-size: 0.875em; /* 30px/16=1.875em */
-   }
+
+.inline-div {
+	display: block;
+	/* text-align: center; */
+  }
+  
+  h4
+  {
+	display: inline-block;
+	/* text-align: center; */
+  }
 
 blockquote, q {
 	quotes: none;
