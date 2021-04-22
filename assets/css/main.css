@@ -334,6 +334,52 @@ input, select, textarea {
 		border-bottom-color: #eeeeee;
 	}
 
+
+	/* .row {
+		display: flex;
+	  }
+	  
+	 
+	  .column {
+		flex: 50%;
+		padding: 10px;
+		height: 300px; 
+	  }
+ */
+
+ .border-right {
+    border-right: 1px solid black;
+}
+
+
+	  .column {
+		float: left;
+		
+		}
+	
+		/* Set width length for the left, right and middle columns */
+		.left {
+		width: 33%;
+		}
+	
+		.middle {
+		width: 33%;
+		}
+		
+		.right {
+		width: 33%;
+		}
+
+		.leftMore
+		{
+			width: 85%;
+		}
+
+		.rightMore
+		{
+			width: 15%;
+		}
+
 /* Row */
 
 	.row {
